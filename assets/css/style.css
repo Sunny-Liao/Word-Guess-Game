@@ -1,0 +1,44 @@
+.marvel {
+    margin-top: 10%;
+}
+
+body {
+    padding:0;
+    background-color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 22px;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+h1 {
+    margin-top: -2%;
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 50px;
+}
+
+h3 {
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-size: 18px;
+}
+
+ul {
+    padding: 0;
+    margin-bottom: 15%;
+    margin-top: 10%;
+    word-break: break-all;     /*  斷開單詞。在單詞到邊界時，下個字母自動到下一行   */
+}
+
+li {
+    padding: 1%;
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
